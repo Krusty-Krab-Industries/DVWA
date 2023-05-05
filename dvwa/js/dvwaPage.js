@@ -37,3 +37,6 @@ with (thisform) {
 function confirmClearGuestbook() {
 	return confirm("Are you sure you want to clear the guestbook?");
 }
+
+
+var solve_button = document.getElementById ("solve");
